@@ -7,7 +7,7 @@
 # Class file skb941/COP2510/pet.py
 #
 # Pet Class:
-Write a class named Pet, which should have the following data attributes:
+# Write a class named Pet, which should have the following data attributes:
 # __name (for the name of the pet)
 # __animal_type (for the type of animal that a pet is. Example values are 'Dog',
 # 'Cat', and 'Bird')
